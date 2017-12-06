@@ -1,0 +1,6 @@
+[submodule "rxjs-extension"]
+	path = rxjs-extension
+	url = git@github.com:yesterdaytime/rxjs-extension.git
+[submodule "rxjs"]
+	path = rxjs
+	url = git@github.com:yesterdaytime/rxjs.git
